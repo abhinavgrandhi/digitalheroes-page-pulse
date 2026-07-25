@@ -6,7 +6,10 @@ import org.springframework.web.bind.annotation.*;
 import com.DigitalHeroes.Assignment.dto.AuditRequest;
 import com.DigitalHeroes.Assignment.dto.AuditResponse;
 import com.DigitalHeroes.Assignment.service.AuditService;
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = {
+	    "http://localhost:5173",
+	    "https://sunny-lamington-795431.netlify.app"
+	})
 @RestController
 @RequestMapping("/api")
 public class AuditController {
