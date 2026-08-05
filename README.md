@@ -102,7 +102,7 @@ https://digitalheroes-page-pulse-production.up.railway.app/api/audit
 Frontend:
 
 ```
-https://sunny-lamington-795431.netlify.app/
+https://digitalheroesassignment.netlify.app/
 ```
 
 ## Author
