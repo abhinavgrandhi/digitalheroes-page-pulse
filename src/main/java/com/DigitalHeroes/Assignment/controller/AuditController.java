@@ -8,7 +8,7 @@ import com.DigitalHeroes.Assignment.dto.AuditResponse;
 import com.DigitalHeroes.Assignment.service.AuditService;
 @CrossOrigin(origins = {
 	    "http://localhost:5173",
-	    "https://sunny-lamington-795431.netlify.app"
+	    "https://digitalheroesassignment.netlify.app/"
 	})
 @RestController
 @RequestMapping("/api")
